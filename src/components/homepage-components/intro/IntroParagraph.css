@@ -1,0 +1,21 @@
+/* .wrapper {
+  width: fit-content;
+  max-width: 550px;
+  height: fit-content;
+  border: 2px solid rgb(134, 133, 133);
+  border-radius: 20px;
+  padding:25px;
+  background: white;
+  text-align: center;
+} */
+  /* margin-top: 100px; */
+  /* margin-left: 675px; */
+
+.wrapper {
+  border-style: solid;
+  padding: 2%;
+  text-align: center;
+  transform: translate(-15%);
+  background-color: white;
+  border-radius: 20px;
+}
